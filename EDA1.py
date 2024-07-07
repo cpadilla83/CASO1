@@ -2,7 +2,7 @@
 """
 Created on Sat Jul  6 09:58:11 2024
 
-@author: CarlosPadilla(GER-RE
+@author: CarlosPadilla & XavierAsmal
 """
 
 
